@@ -165,10 +165,10 @@ main {
 }
 
 .player-winner {
-  background-color: #2f2f2f;
+  background-color: #414370;
 }
 
 .player-winner .name {
   font-weight: 700;
-  color: #c7365f;
+  color: #f8ceda;
 }
